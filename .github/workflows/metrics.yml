@@ -27,4 +27,4 @@ jobs:
           plugin_achievements_limit: 6
           filename: github-metrics.svg
           output_action: gist
-          committer_gist: YOUR_GIST_ID
+          committer_gist: f37aa547bac71088af24f6495a0975ea
