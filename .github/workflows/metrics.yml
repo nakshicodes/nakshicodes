@@ -21,10 +21,6 @@ jobs:
           config_timezone: Africa/Nairobi
           plugin_languages: yes
           plugin_languages_limit: 6
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          plugin_achievements: yes
-          plugin_achievements_limit: 6
           filename: github-metrics.svg
           output_action: gist
           committer_gist: f37aa547bac71088af24f6495a0975ea
