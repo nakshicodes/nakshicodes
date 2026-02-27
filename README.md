@@ -113,26 +113,24 @@ I'm Natasha — a software engineer, database administrator, cloud and AI engine
 ---
 
 ### Github Stats
-
-<!-- STREAK — working ✅ -->
+<!-- STREAK -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=nakshicodes&theme=soft-green&hide_border=true&background=faf6f0&ring=f2a7bb&fire=f2a7bb&currStreakLabel=8A9E7F&sideLabels=7a6a5a&dates=9aab90&currStreakNum=c4687e&sideNums=8A9E7F" />
 </div>
 
 <br/>
 
-<!-- STATS — using alternate vercel instance -->
+<!-- STATS -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nakshicodes&show_icons=true&hide_border=true&title_color=c4687e&text_color=7a6a5a&icon_color=8A9E7F&bg_color=faf6f0&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-stats-alpha.vercel.app/api?username=nakshicodes&cc=faf6f0&tc=c4687e&ic=8A9E7F&bc=faf6f0" height="170"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakshicodes&layout=compact&hide_border=true&title_color=c4687e&text_color=7a6a5a&bg_color=faf6f0" height="170"/>
 </div>
 
 <br/>
 
-<!-- TROPHIES -->
+<!-- METRICS -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nakshicodes&theme=flat&no-frame=true&no-bg=true&column=6&margin-w=6&title_color=c4687e&text_color=7a6a5a" />
+  <img src="https://gist.githubusercontent.com/nakshicodes/f37aa547bac71088af24f6495a0975ea/raw/github-metrics.svg" />
 </div>
 
 ---
@@ -160,6 +158,7 @@ I'm Natasha — a software engineer, database administrator, cloud and AI engine
 <br/>
 
 <!-- CONTACT -->
+### Contact Details
 <div align="center">
   <sub>✦ &nbsp; Let's Connect &nbsp; ✦</sub>
   <br/><br/>
@@ -168,9 +167,13 @@ I'm Natasha — a software engineer, database administrator, cloud and AI engine
   &nbsp;
   [![Substack](https://img.shields.io/badge/Substack-f9e8ec?style=for-the-badge&logo=substack&logoColor=c4687e)](https://substack.com/@nakshicodes)
 
-  <br/><br/>
-  <sub>✦ &nbsp; always learning &nbsp; · &nbsp; always building &nbsp; · &nbsp; always documenting &nbsp; ✦</sub>
+  <sub>✦ &nbsp; always learning &nbsp; · &nbsp; always building &nbsp; · &nbsp; always writing &nbsp; ✦</sub>
+
+  <sub>Happy Coding!</sub>
 </div>
+
+
+
 <!--
 **nakshicodes/nakshicodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -184,4 +187,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
