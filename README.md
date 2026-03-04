@@ -101,9 +101,6 @@ I'm Natasha — a software engineer, database administrator, cloud and AI engine
       <td>🎓</td><td>Navigating uni while shipping real things in the real world</td>
     </tr>
     <tr>
-      <td>⏱️</td><td>Tracking my coding hours with <b>WakaTime</b></td>
-    </tr>
-    <tr>
       <td>🌿</td><td>Growing — one pull request at a time</td>
     </tr>
   </table>
