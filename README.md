@@ -15,7 +15,7 @@
 <!-- PROFILE VIEWS + SOCIAL BADGES -->
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=nakshicodes&style=flat-square&color=f2c4ce&label=profile+views&labelColor=f9e8ec)
+![Profile Views](https://komarev.com/ghpvc/?username=nakshicodes&style=flat-square&color=f2c4ce&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dce8f0?style=flat-square&logo=linkedin&logoColor=3a5a7a)](https://www.linkedin.com/in/natasha-oranga-352a6630b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNOewwUbNQ6G7hC9PX4hMKg%3D%3D)
 [![Substack](https://img.shields.io/badge/Substack-f5ede3?style=flat-square&logo=substack&logoColor=5c3a1e)](https://substack.com/@nakshicodes)
 
